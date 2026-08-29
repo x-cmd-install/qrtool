@@ -1,0 +1,60 @@
+about:
+  description: A command-line utility for encoding and decoding QR code
+  license: NOASSERTION
+  homepage: https://sorairolake.github.io/qrtool/
+  head: c1d94ef
+  archived: false
+  latestVersion: v0.13.2
+  collectedAt: 2026-08-29T07:11:14Z
+timeline:
+  created: 2022-08-18
+  lastCommit: 2026-08-28
+  lastRelease: 2025-12-20
+popularity:
+  star: 294
+  watcher: 2
+  fork: 13
+  release: 60
+  contributor: 5
+  pullRequest: 208
+  issue: 15
+language:
+  Rust: 164248
+  PostScript: 18517
+  Roff: 9826
+  Just: 988
+  Shell: 330
+totalLine: 193909
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 49
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 60
+  last360d:
+    since: 2025-09-03
+    release: 3
+    mergedPR: 178
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 211
