@@ -5,7 +5,7 @@ about:
   head: 1156d91
   archived: false
   latestVersion: "v0.13.2"
-  collectedAt: 2026-09-07T04:33:00Z
+  collectedAt: 2026-09-07T19:54:55Z
 timeline:
   created: 2022-08-18
   lastCommit: 2026-09-04
@@ -83,7 +83,7 @@ total:
   commit: 1281
 ---
 path: /home/runner/.x-repo/github.com/sorairolake/qrtool
-collectedAt: 2026-09-07T04:33:01Z
+collectedAt: 2026-09-07T19:54:58Z
 loc:
   Rust:
     code: 5461
@@ -144,7 +144,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:03+00:00
+  collectedAt: 2026-09-07T19:55:01+00:00
   platform:
     darwin/arm64:
       name:  qrtool-v0.13.2-aarch64-apple-darwin.tar.gz
