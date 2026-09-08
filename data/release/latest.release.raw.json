@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1294225,
       "digest": "sha256:f9ec6bdb78710a2e18cb83f376a3ae8dd7a1bd42892db32e4322c2e0c93eccb3",
-      "download_count": 145,
+      "download_count": 146,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-pc-windows-msvc.7z"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1723334,
       "digest": "sha256:c0cad331b96632e74da48f4e9d32e924cc5d3bd2be4258a4a0a39da99202d712",
-      "download_count": 164,
+      "download_count": 165,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-pc-windows-msvc.zip"
