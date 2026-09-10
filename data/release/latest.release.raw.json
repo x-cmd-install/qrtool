@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1218268,
       "digest": "sha256:2fd438c770036cf89075f14b1aac65a1acce44508e96f7b9233305bbd9f22a23",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-aarch64-apple-darwin.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1569796,
       "digest": "sha256:b3aed580e1a579e30760a63d40604fff23512c93332b1bbcb32c3d2826b8c23f",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.xz"
