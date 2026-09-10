@@ -1,0 +1,218 @@
+- repo: nix_stable_25_11
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.13.1
+  origversion: null
+  status: outdated
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - MIT
+    - Apache-2.0
+    - CC-BY-4.0
+- repo: homebrew
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: null
+  status: newest
+  summary: Utility for encoding or decoding QR code
+- repo: homebrew
+  srcname: qrtool
+  visiblename: qrtool
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Utility for encoding or decoding QR code
+- repo: macports
+  srcname: graphics/qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: null
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  maintainers:
+    - i0ntempest@macports
+    - i0ntempest@github
+  licenses:
+    - Apache-2
+    - MIT
+  categories:
+    - graphics
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - MIT
+    - Apache-2.0
+    - CC-BY-4.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - MIT
+    - Apache-2.0
+    - CC-BY-4.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - MIT
+    - Apache-2.0
+    - CC-BY-4.0
+- repo: msys2_clang64
+  srcname: mingw-w64-qrtool
+  binname: mingw-w64-clang-x86_64-qrtool
+  visiblename: mingw-w64-clang-x86_64-qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code (mingw-w64)
+  licenses:
+    - spdx:Apache-2.0 OR MIT AND CC-BY-4.0
+- repo: msys2_clangarm64
+  srcname: mingw-w64-qrtool
+  binname: mingw-w64-clang-aarch64-qrtool
+  visiblename: mingw-w64-clang-aarch64-qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code (mingw-w64)
+  licenses:
+    - spdx:Apache-2.0 OR MIT AND CC-BY-4.0
+- repo: msys2_ucrt64
+  srcname: mingw-w64-qrtool
+  binname: mingw-w64-ucrt-x86_64-qrtool
+  visiblename: mingw-w64-ucrt-x86_64-qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code (mingw-w64)
+  licenses:
+    - spdx:Apache-2.0 OR MIT AND CC-BY-4.0
+- repo: nix_stable_24_05
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.10.10
+  origversion: null
+  status: outdated
+  summary: A utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.11.6
+  origversion: null
+  status: outdated
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.11.8
+  origversion: null
+  status: outdated
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: null
+  status: newest
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: null
+  status: newest
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: qrtool
+  binnames:
+    - qrtool
+    - qrtool-debuginfo
+    - qrtool-debugsource
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1.5
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - Apache-2.0 AND CC-BY-4.0 AND MIT
+  categories:
+    - Productivity/Graphics/Visualization/Other
+- repo: parabola
+  subrepo: extra
+  srcname: qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - MIT
+    - Apache-2.0
+    - CC-BY-4.0
+- repo: wikidata
+  srcname: Q130252332
+  visiblename: Q130252332
+  version: 0.13.2
+  origversion: null
+  status: newest
+  summary: utility for encoding and decoding QR code
+  licenses:
+    - Apache Software License 2.0
+    - Creative Commons Attribution 4.0 International
+    - MIT License
