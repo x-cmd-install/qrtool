@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1858540,
       "digest": "sha256:9f112dc46dbf9a533cc574fb3b04c366fd1cfde7a4eb0e3cc18370e57d38951d",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-aarch64-unknown-linux-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1294225,
       "digest": "sha256:f9ec6bdb78710a2e18cb83f376a3ae8dd7a1bd42892db32e4322c2e0c93eccb3",
-      "download_count": 146,
+      "download_count": 147,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-pc-windows-msvc.7z"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1723334,
       "digest": "sha256:c0cad331b96632e74da48f4e9d32e924cc5d3bd2be4258a4a0a39da99202d712",
-      "download_count": 167,
+      "download_count": 168,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2009421,
       "digest": "sha256:06a45a292a314a650bb8c91d61374b80634ad3899134201273d353dc42cb5002",
-      "download_count": 210,
+      "download_count": 211,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1569796,
       "digest": "sha256:b3aed580e1a579e30760a63d40604fff23512c93332b1bbcb32c3d2826b8c23f",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.xz"
