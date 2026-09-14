@@ -48,12 +48,12 @@ Total: **9,229** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 22 | 0 | 0 | 0 | 33 |
-| last60d | 2026-07-15 | 0 | 23 | 0 | 0 | 0 | 33 |
-| 90d | 2026-06-15 | 0 | 25 | 0 | 0 | 0 | 33 |
-| last180d | 2026-03-17 | 0 | 58 | 0 | 0 | 0 | 64 |
-| 360d | 2025-09-18 | 3 | 189 | 0 | 1 | 0 | 208 |
-| last720d | 2024-09-23 | 8 | 387 | 0 | 9 | 1 | 470 |
+| 30d | 2026-08-15 | 0 | 22 | 0 | 0 | 0 | 33 |
+| last60d | 2026-07-16 | 0 | 23 | 0 | 0 | 0 | 33 |
+| 90d | 2026-06-16 | 0 | 25 | 0 | 0 | 0 | 33 |
+| last180d | 2026-03-18 | 0 | 58 | 0 | 0 | 0 | 64 |
+| 360d | 2025-09-19 | 3 | 188 | 0 | 1 | 0 | 208 |
+| last720d | 2024-09-24 | 8 | 387 | 0 | 9 | 1 | 470 |
 
 ## Release assets
 
@@ -78,17 +78,6 @@ Total: **9,229** lines of code across **38** files in the top 5 languages.
 | [qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.zst](https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.zst) | 1.6 MiB | `native/linux/x64/musl` |
 | [sha256sums.txt](https://github.com/sorairolake/qrtool/releases/download/v0.13.2/sha256sums.txt) | 1.7 KiB | `other` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/qrtool). **14** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.13.2` | ✅ latest |
-| Homebrew | `0.13.2` | ✅ latest |
-| Nix unstable | `0.13.2` | ✅ latest |
-| openSUSE Tumbleweed | `0.13.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qrtool` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +87,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:53:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:49:50Z._
