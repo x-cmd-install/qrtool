@@ -14,14 +14,14 @@ x install qrtool
 
 ## Code insight
 
-Total: **9,229** lines of code across **38** files in the top 5 languages.
+Total: **9,232** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,461 | 52 | 386 | 13 |
+| Rust | 5,462 | 52 | 386 | 13 |
 | Json | 2,298 | 0 | 0 | 2 |
 | AsciiDoc | 1,212 | 58 | 671 | 18 |
-| Toml | 100 | 6 | 10 | 2 |
+| Toml | 102 | 6 | 11 | 2 |
 | Yaml | 95 | 9 | 14 | 3 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **9,229** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.2` (2025-12-20)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-16
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **9,229** lines of code across **38** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 816 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1289
+- **Releases**: 60 · **Merged PRs**: 817 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 22 | 0 | 0 | 0 | 33 |
-| last60d | 2026-07-18 | 0 | 23 | 0 | 0 | 0 | 33 |
-| 90d | 2026-06-18 | 0 | 25 | 0 | 0 | 0 | 33 |
-| last180d | 2026-03-20 | 0 | 57 | 0 | 0 | 0 | 64 |
-| 360d | 2025-09-21 | 3 | 188 | 0 | 1 | 0 | 208 |
-| last720d | 2024-09-26 | 8 | 386 | 0 | 9 | 1 | 470 |
+| 30d | 2026-08-18 | 0 | 23 | 0 | 0 | 0 | 34 |
+| last60d | 2026-07-19 | 0 | 24 | 0 | 0 | 0 | 34 |
+| 90d | 2026-06-19 | 0 | 26 | 0 | 0 | 0 | 34 |
+| last180d | 2026-03-21 | 0 | 58 | 0 | 0 | 0 | 65 |
+| 360d | 2025-09-22 | 3 | 185 | 0 | 1 | 0 | 209 |
+| last720d | 2024-09-27 | 8 | 387 | 0 | 9 | 1 | 471 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:55:30Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:50:52Z._
