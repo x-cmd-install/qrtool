@@ -42,18 +42,18 @@ Total: **9,232** lines of code across **38** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 817 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1290
+- **Releases**: 60 · **Merged PRs**: 817 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 23 | 0 | 0 | 0 | 34 |
-| last60d | 2026-07-19 | 0 | 24 | 0 | 0 | 0 | 34 |
-| 90d | 2026-06-19 | 0 | 26 | 0 | 0 | 0 | 34 |
-| last180d | 2026-03-21 | 0 | 58 | 0 | 0 | 0 | 65 |
-| 360d | 2025-09-22 | 3 | 185 | 0 | 1 | 0 | 209 |
-| last720d | 2024-09-27 | 8 | 387 | 0 | 9 | 1 | 471 |
+| 30d | 2026-08-19 | 0 | 23 | 3 | 0 | 0 | 34 |
+| last60d | 2026-07-20 | 0 | 24 | 3 | 0 | 0 | 34 |
+| 90d | 2026-06-20 | 0 | 26 | 3 | 0 | 0 | 34 |
+| last180d | 2026-03-22 | 0 | 58 | 3 | 0 | 0 | 65 |
+| 360d | 2025-09-23 | 3 | 185 | 3 | 1 | 0 | 209 |
+| last720d | 2024-09-28 | 8 | 387 | 3 | 9 | 1 | 471 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:50:52Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:37:49Z._
