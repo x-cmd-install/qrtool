@@ -4,7 +4,7 @@
 
 A command-line utility for encoding and decoding QR code
 
-[![x-cmd/install — qrtool Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qrtool.svg)](https://x-cmd.com/install/qrtool)
+[![x-cmd/install — qrtool Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/qrtool.svg)](https://x-cmd.com/install/qrtool)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **9,232** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 296 · **Forks**: 13 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 297 · **Forks**: 13 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **9,232** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 26 | 0 | 0 | 0 | 37 |
-| last60d | 2026-07-24 | 0 | 26 | 0 | 0 | 0 | 37 |
-| 90d | 2026-06-24 | 0 | 29 | 0 | 0 | 0 | 37 |
-| last180d | 2026-03-26 | 0 | 58 | 0 | 0 | 0 | 68 |
-| 360d | 2025-09-27 | 3 | 187 | 0 | 1 | 0 | 203 |
-| last720d | 2024-10-02 | 8 | 388 | 0 | 9 | 1 | 469 |
+| 30d | 2026-08-24 | 0 | 26 | 0 | 0 | 0 | 37 |
+| last60d | 2026-07-25 | 0 | 26 | 0 | 0 | 0 | 37 |
+| 90d | 2026-06-25 | 0 | 29 | 0 | 0 | 0 | 37 |
+| last180d | 2026-03-27 | 0 | 58 | 0 | 0 | 0 | 68 |
+| 360d | 2025-09-28 | 3 | 187 | 0 | 1 | 0 | 203 |
+| last720d | 2024-10-03 | 8 | 388 | 0 | 9 | 1 | 469 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:50:37Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:42:07Z._
