@@ -14,14 +14,14 @@ x install qrtool
 
 ## Code insight
 
-Total: **9,232** lines of code across **38** files in the top 5 languages.
+Total: **9,235** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 5,462 | 52 | 386 | 13 |
 | Json | 2,298 | 0 | 0 | 2 |
 | AsciiDoc | 1,212 | 58 | 671 | 18 |
-| Toml | 102 | 6 | 11 | 2 |
+| Toml | 105 | 6 | 11 | 2 |
 | Yaml | 95 | 9 | 14 | 3 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **9,232** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.2` (2025-12-20)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **9,232** lines of code across **38** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 825 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1298
+- **Releases**: 60 · **Merged PRs**: 826 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1299
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 22 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 31 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 34 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 63 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 3 | 189 | 0 | 1 | 0 | 0 |
-| last720d | 2024-10-08 | 8 | 392 | 0 | 9 | 1 | 474 |
+| 30d | 2026-08-30 | 0 | 23 | 0 | 0 | 0 | 22 |
+| last60d | 2026-07-31 | 0 | 32 | 0 | 0 | 0 | 43 |
+| 90d | 2026-07-01 | 0 | 35 | 0 | 0 | 0 | 43 |
+| last180d | 2026-04-02 | 0 | 62 | 0 | 0 | 0 | 74 |
+| 360d | 2025-10-04 | 3 | 190 | 0 | 1 | 0 | 206 |
+| last720d | 2024-10-09 | 8 | 390 | 0 | 9 | 1 | 475 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:17:46Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:42:43Z._
