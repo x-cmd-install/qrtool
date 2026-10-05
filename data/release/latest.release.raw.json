@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1723334,
       "digest": "sha256:c0cad331b96632e74da48f4e9d32e924cc5d3bd2be4258a4a0a39da99202d712",
-      "download_count": 282,
+      "download_count": 284,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2009421,
       "digest": "sha256:06a45a292a314a650bb8c91d61374b80634ad3899134201273d353dc42cb5002",
-      "download_count": 277,
+      "download_count": 279,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1569796,
       "digest": "sha256:b3aed580e1a579e30760a63d40604fff23512c93332b1bbcb32c3d2826b8c23f",
-      "download_count": 63,
+      "download_count": 71,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:34Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1774,
       "digest": "sha256:6dfd4b89b7d74c2f0c293a8e2ec8c7ef2fd5b2dbc4ac89a11b58e0e05cb2be1f",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-12-20T13:26:33Z",
       "updated_at": "2025-12-20T13:26:33Z",
       "browser_download_url": "https://github.com/sorairolake/qrtool/releases/download/v0.13.2/sha256sums.txt"
