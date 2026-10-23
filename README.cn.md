@@ -42,18 +42,18 @@ x install qrtool
 
 ## 累计统计
 
-- **发布数**: 60 · **已合并 PR**: 838 · **开放 PR**: 0 · **已关闭 issue**: 14 · **开放 issue**: 1 · **提交数**: 1321
+- **发布数**: 60 · **已合并 PR**: 838 · **开放 PR**: 3 · **已关闭 issue**: 14 · **开放 issue**: 1 · **提交数**: 1321
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 18 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-23 | 0 | 44 | 0 | 0 | 0 | 55 |
-| 90d | 2026-07-24 | 0 | 44 | 0 | 0 | 0 | 55 |
-| last180d | 2026-04-25 | 0 | 63 | 0 | 0 | 0 | 69 |
-| 360d | 2025-10-27 | 3 | 183 | 0 | 1 | 0 | 193 |
-| last720d | 2024-11-01 | 7 | 385 | 0 | 9 | 1 | 460 |
+| 30d | 2026-09-23 | 0 | 18 | 3 | 0 | 0 | 18 |
+| last60d | 2026-08-24 | 0 | 44 | 3 | 0 | 0 | 55 |
+| 90d | 2026-07-25 | 0 | 44 | 3 | 0 | 0 | 55 |
+| last180d | 2026-04-26 | 0 | 63 | 3 | 0 | 0 | 69 |
+| 360d | 2025-10-28 | 3 | 182 | 3 | 1 | 0 | 193 |
+| last720d | 2024-11-02 | 7 | 381 | 3 | 9 | 1 | 460 |
 
 ## Release 资产
 
@@ -78,6 +78,17 @@ x install qrtool
 | [qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.zst](https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.zst) | 1.6 MiB | `native/linux/x64/musl` |
 | [sha256sums.txt](https://github.com/sorairolake/qrtool/releases/download/v0.13.2/sha256sums.txt) | 1.7 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/qrtool) 上共有 **19** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.13.2` | ✅ latest |
+| Homebrew | `0.13.2` | ✅ latest |
+| Nix unstable | `0.13.2` | ✅ latest |
+| openSUSE Tumbleweed | `0.13.2` | ✅ latest |
+
 ## 改进这些数据
 
 qrtool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `qrtool` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +98,4 @@ qrtool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:42:43Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:41:31Z._
