@@ -48,12 +48,12 @@ Total: **9,010** lines of code across **39** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 16 | 0 | 0 | 0 | 12 |
-| last60d | 2026-09-03 | 0 | 38 | 0 | 0 | 0 | 37 |
-| 90d | 2026-08-04 | 0 | 51 | 0 | 0 | 0 | 62 |
-| last180d | 2026-05-06 | 0 | 68 | 0 | 0 | 0 | 68 |
-| 360d | 2025-11-07 | 1 | 178 | 0 | 1 | 0 | 188 |
-| last720d | 2024-11-12 | 7 | 382 | 0 | 9 | 1 | 462 |
+| 30d | 2026-10-04 | 0 | 16 | 0 | 0 | 0 | 12 |
+| last60d | 2026-09-04 | 0 | 37 | 0 | 0 | 0 | 37 |
+| 90d | 2026-08-05 | 0 | 51 | 0 | 0 | 0 | 62 |
+| last180d | 2026-05-07 | 0 | 64 | 0 | 0 | 0 | 68 |
+| 360d | 2025-11-08 | 1 | 177 | 0 | 1 | 0 | 188 |
+| last720d | 2024-11-13 | 7 | 382 | 0 | 9 | 1 | 462 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Total: **9,010** lines of code across **39** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/qrtool). **14** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/qrtool). **12** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:04:59Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:45:11Z._
