@@ -48,12 +48,12 @@ Total: **9,013** lines of code across **39** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 13 | 5 | 0 | 0 | 15 |
-| last60d | 2026-09-15 | 0 | 35 | 5 | 0 | 0 | 36 |
-| 90d | 2026-08-16 | 0 | 57 | 5 | 0 | 0 | 69 |
-| last180d | 2026-05-18 | 0 | 67 | 5 | 0 | 0 | 69 |
-| 360d | 2025-11-19 | 1 | 175 | 5 | 1 | 0 | 191 |
-| last720d | 2024-11-24 | 7 | 382 | 5 | 9 | 1 | 467 |
+| 30d | 2026-10-16 | 0 | 13 | 5 | 0 | 0 | 11 |
+| last60d | 2026-09-16 | 0 | 34 | 5 | 0 | 0 | 32 |
+| 90d | 2026-08-17 | 0 | 57 | 5 | 0 | 0 | 69 |
+| last180d | 2026-05-19 | 0 | 67 | 5 | 0 | 0 | 69 |
+| 360d | 2025-11-20 | 1 | 175 | 5 | 1 | 0 | 186 |
+| last720d | 2024-11-25 | 7 | 381 | 5 | 9 | 1 | 467 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:13:46Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:27:20Z._
