@@ -1,3 +1,38 @@
+- repo: parabola
+  subrepo: extra
+  srcname: qrtool
+  binname: qrtool
+  visiblename: qrtool
+  version: 0.13.2
+  origversion: 0.13.2-1
+  status: newest
+  summary: An utility for encoding or decoding QR code
+  licenses:
+    - MIT
+    - Apache-2.0
+    - CC-BY-4.0
+- repo: nix_stable_25_05
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.11.8
+  origversion: null
+  status: outdated
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: qrtool
+  visiblename: qrtool
+  version: 0.13.1
+  origversion: null
+  status: outdated
+  summary: Utility for encoding and decoding QR code images
+  maintainers:
+    - philip.taron@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: qrtool
@@ -132,28 +167,6 @@
     - philip.taron@gmail.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: qrtool
-  visiblename: qrtool
-  version: 0.11.8
-  origversion: null
-  status: outdated
-  summary: Utility for encoding and decoding QR code images
-  maintainers:
-    - philip.taron@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: qrtool
-  visiblename: qrtool
-  version: 0.13.1
-  origversion: null
-  status: outdated
-  summary: Utility for encoding and decoding QR code images
-  maintainers:
-    - philip.taron@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: qrtool
   visiblename: qrtool
@@ -192,19 +205,16 @@
     - Apache-2.0 AND CC-BY-4.0 AND MIT
   categories:
     - Productivity/Graphics/Visualization/Other
-- repo: parabola
-  subrepo: extra
+- repo: termux
   srcname: qrtool
   binname: qrtool
   visiblename: qrtool
   version: 0.13.2
-  origversion: 0.13.2-1
+  origversion: null
   status: newest
-  summary: An utility for encoding or decoding QR code
-  licenses:
-    - MIT
-    - Apache-2.0
-    - CC-BY-4.0
+  summary: A command-line utility for encoding and decoding QR codes
+  maintainers:
+    - examosa@fastmail.com
 - repo: wikidata
   srcname: Q130252332
   visiblename: qrtool
