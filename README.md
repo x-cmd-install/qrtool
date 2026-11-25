@@ -42,18 +42,18 @@ Total: **9,099** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 859 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1362
+- **Releases**: 60 · **Merged PRs**: 860 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 1 · **Commits**: 1363
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 18 | 0 | 0 | 0 | 15 |
-| last60d | 2026-09-25 | 0 | 34 | 0 | 0 | 0 | 34 |
-| 90d | 2026-08-26 | 0 | 65 | 0 | 0 | 0 | 58 |
-| last180d | 2026-05-28 | 0 | 74 | 0 | 0 | 0 | 77 |
-| 360d | 2025-11-29 | 1 | 176 | 0 | 1 | 0 | 188 |
-| last720d | 2024-12-04 | 7 | 385 | 0 | 9 | 1 | 478 |
+| 30d | 2026-10-26 | 0 | 19 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-26 | 0 | 35 | 0 | 0 | 0 | 35 |
+| 90d | 2026-08-27 | 0 | 66 | 0 | 0 | 0 | 59 |
+| last180d | 2026-05-29 | 0 | 75 | 0 | 0 | 0 | 78 |
+| 360d | 2025-11-30 | 1 | 177 | 0 | 1 | 0 | 189 |
+| last720d | 2024-12-05 | 7 | 385 | 0 | 9 | 1 | 479 |
 
 ## Release assets
 
@@ -78,17 +78,6 @@ Total: **9,099** lines of code across **39** files in the top 5 languages.
 | [qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.zst](https://github.com/sorairolake/qrtool/releases/download/v0.13.2/qrtool-v0.13.2-x86_64-unknown-linux-musl.tar.zst) | 1.6 MiB | `native/linux/x64/musl` |
 | [sha256sums.txt](https://github.com/sorairolake/qrtool/releases/download/v0.13.2/sha256sums.txt) | 1.7 KiB | `other` |
 
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/qrtool). **15** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.13.2` | ✅ latest |
-| Homebrew | `0.13.2` | ✅ latest |
-| Nix unstable | `0.13.2` | ✅ latest |
-| openSUSE Tumbleweed | `0.13.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qrtool` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +87,4 @@ Install metadata for qrtool lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:53:52Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:21:05Z._
